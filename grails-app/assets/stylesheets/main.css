@@ -70,7 +70,23 @@ img {
     margin: 1em;
 }
 
-.content {
+#content {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#users{
+    text-align: left;
+    margin-left: 35%;
+    margin-right: 35%;
+    border: solid 1px grey;
+    padding: 1em;
+}
+
+li {
+    list-style-type: none;
 }
 
 .content h1 {
